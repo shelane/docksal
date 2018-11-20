@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u'Docksal RTD Docs'
+project = u'Docksal Legacy Docs'
 copyright = u'2018, Docksal Team'
 author = u'Docksal Team'
 

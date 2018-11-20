@@ -1,20 +1,4 @@
-.. Docksal RTD Docs documentation master file, created by
-   sphinx-quickstart on Tue Nov 20 12:15:06 2018.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+Documentation Site Has Moved
+============================
 
-Welcome to Docksal RTD Docs's documentation!
-============================================
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+Docksal documentation has moved => `https://docs.docksal.io/ <https://docs.docksal.io/>`_.
